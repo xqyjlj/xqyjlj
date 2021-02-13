@@ -1,19 +1,19 @@
-### Hi there 👋
+### 你好 请看这里 Hi there 👋
 
-<!--
-**xqyjlj/xqyjlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 (目前在广州, 年龄19, 大三在读，喜欢嵌入式，以及上位机设计)  
+Currently in Guangzhou, age 19, likes embedded and PC design.
 
-Here are some ideas to get you started:
+🔭 (现在还是一名大学生)  
+Still a college student .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 (如何联系我)How to reach me:xqyjlj@126.com
+
+👾 (我喜欢二次元)  
+I like Japanese anime
+
+⚡️ (目前是一个赛车队的电控低压负责人)
+Currently the head of electronic control low voltage for a racing team.
+
 
 ![](https://github-readme-stats.vercel.app/api?username=xqyjlj)
 
