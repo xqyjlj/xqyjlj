@@ -1,7 +1,7 @@
 ### 你好 请看这里 Hi there 👋
 
 😄 (目前在广州, 年龄19, 喜欢嵌入式, 以及上位机设计)  
-Currently in Guangzhou, age 19, likes embedded and PC design.
+Currently in Guangzhou, age 20, likes embedded and PC design.
 
 🔭 (现在还是一名大学生)  
 Still a college student .
