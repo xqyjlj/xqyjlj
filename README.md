@@ -1,5 +1,7 @@
 ### 你好 请看这里 Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqyjlj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xqyjlj&theme=dark&show_icons=true">](https://metrics.lecoq.io/xqyjlj#gh-dark-mode-only)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xqyjlj&show_icons=true">](https://metrics.lecoq.io/xqyjlj#gh-light-mode-only)
@@ -12,9 +14,9 @@
 -   :man: 老二刺螈了
 -   :thought_balloon: xqyjlj@126.com
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xqyjlj&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xqyjlj&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 
