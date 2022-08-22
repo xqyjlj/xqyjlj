@@ -7,7 +7,7 @@
 我是小权一句两句 | [Blog](https://xqyjlj.github.io/).
 
 -   :hammer_and_pick: C++ / C / Qt / WPF / JS / AD / Python
--   :pencil2: [csp](https://github.com/xqyjlj/csp)
+-   :pencil2: [CSP](https://github.com/xqyjlj/csp)
 -   :seedling: 已经工作
 -   :man: 老二刺螈了
 -   :thought_balloon: xqyjlj@126.com
