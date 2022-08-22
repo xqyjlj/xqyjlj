@@ -4,6 +4,8 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xqyjlj&show_icons=true">](https://metrics.lecoq.io/xqyjlj#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqyjlj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 我是小权一句两句 | [Blog](https://xqyjlj.github.io/).
 
 -   :hammer_and_pick: C++ / C / Qt / WPF / JS / AD / Python
@@ -11,9 +13,6 @@
 -   :seedling: 已经工作
 -   :man: 老二刺螈了
 -   :thought_balloon: xqyjlj@126.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqyjlj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ---
