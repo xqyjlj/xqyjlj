@@ -1,20 +1,29 @@
 ### 你好 请看这里 Hi there 👋
 
-😄 (目前在广州, 年龄19, 喜欢嵌入式, 以及上位机设计)  
-Currently in Guangzhou, age 20, likes embedded and PC design.
 
-🔭 (现在还是一名大学生)  
-Still a college student .
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xqyjlj&theme=dark&show_icons=true">](https://metrics.lecoq.io/xqyjlj#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xqyjlj&show_icons=true">](https://metrics.lecoq.io/xqyjlj#gh-light-mode-only)
 
-📫 (如何联系我)How to reach me:xqyjlj@126.com
+我是小权一句两句 | [Blog](https://xqyjlj.github.io/).
 
-👾 (我喜欢二次元)  
-I like Japanese anime
+-   :hammer_and_pick: C++ / C / Qt / WPF / JS / AD / Python
+-   :pencil2: [csp](https://github.com/xqyjlj/csp)
+-   :seedling: 已经工作
+-   :man: 老二刺螈了
+-   :thought_balloon: xqyjlj@126.com
 
-⚡️ (目前是一个赛车队的电控低压负责人)
-Currently the head of electronic control low voltage for a racing team.
+---
 
-⚙️ (目前在学硬件设计)
-Currently studying hardware design.
-![](https://github-readme-stats.vercel.app/api?username=xqyjlj)
+#### :sparkles: [我的粉丝](https://github.com/xqyjlj?tab=followers)
 
+<!--START_SECTION:followers-->
+
+<!--END_SECTION:followers-->
+
+---
+
+#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
