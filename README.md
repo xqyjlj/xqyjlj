@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqyjlj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"><img src="./snake/github-contribution-grid-snake-dark.svg" /></div>
+
 我是小权一句两句 | [Blog](https://xqyjlj.github.io/).
 
 -   :hammer_and_pick: C++ / C / Qt / WPF / JS / AD / Python
