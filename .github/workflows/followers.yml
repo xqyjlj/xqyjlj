@@ -21,16 +21,7 @@ jobs:
       - name: Update README
         run: python src/followers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update followers"
-      - name: Pull changes
-        run: git pull -r
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          message: 'Update Snake'
