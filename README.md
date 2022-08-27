@@ -1,4 +1,9 @@
-### 你好 请看这里 Hi there 👋
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://xqyjlj.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=似此星辰非昨夜，为谁风露立中宵&center=true&size=27">
+  </a>
+</h1>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xqyjlj&theme=dark&show_icons=true&count_private=true">](https://metrics.lecoq.io/xqyjlj#gh-dark-mode-only)
 
