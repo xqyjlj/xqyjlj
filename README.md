@@ -35,6 +35,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/supperthomas">
+        <img src="https://avatars2.githubusercontent.com/u/60349489" width="100px;" alt="supperthomas"/>
+      </a>
+      <br />
+      <a href="https://github.com/supperthomas">supperthomas</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/delehub">
         <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
       </a>
@@ -76,6 +83,8 @@
       <br />
       <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/eclipsesw">
         <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
@@ -83,8 +92,6 @@
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/cyiiot">
         <img src="https://avatars2.githubusercontent.com/u/25081194" width="100px;" alt="cyiiot"/>
@@ -112,6 +119,13 @@
       </a>
       <br />
       <a href="https://github.com/WZ1680">WZ1680</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VencentLen">
+        <img src="https://avatars2.githubusercontent.com/u/44052270" width="100px;" alt="VencentLen"/>
+      </a>
+      <br />
+      <a href="https://github.com/VencentLen">VencentLen</a>
     </td>
     <td align="center">
       <a href="https://github.com/GuojianLiao">
