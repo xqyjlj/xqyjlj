@@ -2,7 +2,7 @@ name: Get Followers
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,9 +19,9 @@ jobs:
         run: pip install requests
 
       - name: Update README
-        run: python src/followers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
+        run: python src/followers.py ${{ github.repository_owner }} ${{ github.token }} README.md
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'Update Snake'
+          message: "Update Snake"
