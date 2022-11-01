@@ -63,6 +63,13 @@
       <a href="https://github.com/chenyingchun0312">陈迎春</a>
     </td>
     <td align="center">
+      <a href="https://github.com/firespeed79">
+        <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
+      </a>
+      <br />
+      <a href="https://github.com/firespeed79">firespeed79</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/cutelolly">
         <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
       </a>
@@ -75,13 +82,6 @@
       </a>
       <br />
       <a href="https://github.com/XAALJ">Linky</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/firespeed79">
-        <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
-      </a>
-      <br />
-      <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
   </tr>
   <tr>
