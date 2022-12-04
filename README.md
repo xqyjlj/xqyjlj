@@ -11,7 +11,6 @@
 <div align="center">
   <a href="https://xqyjlj.github.io/"><img src="https://img.shields.io/badge/blog-博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/24969427/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xqyjlj" alt="访客统计" />
 </div>
 
 <table>
