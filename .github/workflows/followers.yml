@@ -24,4 +24,4 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update Snake"
+          message: "📃 docs(README.md):  Update Followers"
