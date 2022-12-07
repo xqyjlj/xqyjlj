@@ -69,18 +69,18 @@
       <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
     <td align="center">
-      <a href="https://github.com/XAALJ">
-        <img src="https://avatars2.githubusercontent.com/u/44630193" width="100px;" alt="XAALJ"/>
-      </a>
-      <br />
-      <a href="https://github.com/XAALJ">Linky</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cutelolly">
         <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
       </a>
       <br />
       <a href="https://github.com/cutelolly">lollipop</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/XAALJ">
+        <img src="https://avatars2.githubusercontent.com/u/44630193" width="100px;" alt="XAALJ"/>
+      </a>
+      <br />
+      <a href="https://github.com/XAALJ">Linky</a>
     </td>
   </tr>
   <tr>
