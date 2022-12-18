@@ -1,4 +1,4 @@
-name: Generate Snake
+name: 👷 generate snake
 
 on:
   schedule:
@@ -7,12 +7,13 @@ on:
 
 jobs:
   update-snake:
+    name: 👷 generate snake
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: ⬇️ checkout
         uses: actions/checkout@v3
-      
-      - name: Generate Snake
+
+      - name: 👷 generate snake
         uses: Platane/snk@v2
         id: snake-gif
         with:
@@ -20,7 +21,7 @@ jobs:
           outputs: |
             ./snake/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
+      - name: ⬆️ push to github
         uses: EndBug/add-and-commit@v9
         with:
-          message: '📃 docs(snake/github-contribution-grid-snake-dark.svg): Update Snake'
+          message: "📃 docs(snake/github-contribution-grid-snake-dark.svg): Update Snake"

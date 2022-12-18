@@ -1,4 +1,4 @@
-name: Get Followers
+name: 👷 get followers
 
 on:
   schedule:
@@ -15,13 +15,13 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: Install requests
+      - name: ⬇️ install requests
         run: pip install requests
 
-      - name: Update README
+      - name: 👷 update readme
         run: python src/followers.py ${{ github.repository_owner }} ${{ github.token }} README.md
 
-      - name: Push to GitHub
+      - name: ⬆️ push to github
         uses: EndBug/add-and-commit@v9
         with:
           message: "📃 docs(README.md):  Update Followers"
