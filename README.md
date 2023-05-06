@@ -92,6 +92,13 @@
       <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
     <td align="center">
+      <a href="https://github.com/eclipsesw">
+        <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
+      </a>
+      <br />
+      <a href="https://github.com/eclipsesw">shiwei</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
       </a>
@@ -104,13 +111,6 @@
       </a>
       <br />
       <a href="https://github.com/weiluo66">weiluo66</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/eclipsesw">
-        <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
-      </a>
-      <br />
-      <a href="https://github.com/eclipsesw">shiwei</a>
     </td>
     <td align="center">
       <a href="https://github.com/zhi-hai">
