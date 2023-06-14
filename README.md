@@ -52,7 +52,7 @@
         <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
       </a>
       <br />
-      <a href="https://github.com/delehub">delehub</a>
+      <a href="https://github.com/delehub">End</a>
     </td>
     <td align="center">
       <a href="https://github.com/chenyingchun0312">
