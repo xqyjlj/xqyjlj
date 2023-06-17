@@ -38,7 +38,7 @@
         <img src="https://avatars2.githubusercontent.com/u/60349489" width="100px;" alt="supperthomas"/>
       </a>
       <br />
-      <a href="https://github.com/supperthomas">supperthomas</a>
+      <a href="https://github.com/supperthomas">Thomas Supper</a>
     </td>
     <td align="center">
       <a href="https://github.com/9cats">
