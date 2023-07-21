@@ -20,8 +20,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./snake/github-contribution-grid-snake-dark.svg?palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ github.token }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
       - name: ⬆️ push to github
         uses: EndBug/add-and-commit@v9
