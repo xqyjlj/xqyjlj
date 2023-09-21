@@ -48,6 +48,13 @@
       <a href="https://github.com/9cats">9cats</a>
     </td>
     <td align="center">
+      <a href="https://github.com/teddyxiong53">
+        <img src="https://avatars2.githubusercontent.com/u/3727440" width="100px;" alt="teddyxiong53"/>
+      </a>
+      <br />
+      <a href="https://github.com/teddyxiong53">teddyxiong53</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zbtrs">
         <img src="https://avatars2.githubusercontent.com/u/32517549" width="100px;" alt="zbtrs"/>
       </a>
@@ -75,6 +82,8 @@
       <br />
       <a href="https://github.com/cutelolly">lollipop</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/firespeed79">
         <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
@@ -82,8 +91,6 @@
       <br />
       <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/XAALJ">
         <img src="https://avatars2.githubusercontent.com/u/44630193" width="100px;" alt="XAALJ"/>
@@ -126,6 +133,8 @@
       <br />
       <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhi-hai">
         <img src="https://avatars2.githubusercontent.com/u/72931440" width="100px;" alt="zhi-hai"/>
@@ -133,8 +142,6 @@
       <br />
       <a href="https://github.com/zhi-hai">zhi-hai</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yiansher">
         <img src="https://avatars2.githubusercontent.com/u/51122532" width="100px;" alt="yiansher"/>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/WZ1680">WZ1680</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VencentLen">
-        <img src="https://avatars2.githubusercontent.com/u/44052270" width="100px;" alt="VencentLen"/>
-      </a>
-      <br />
-      <a href="https://github.com/VencentLen">VencentLen</a>
     </td>
   </tr>
 </table>
