@@ -99,6 +99,13 @@
       <a href="https://github.com/XAALJ">Linky</a>
     </td>
     <td align="center">
+      <a href="https://github.com/imchangchang">
+        <img src="https://avatars2.githubusercontent.com/u/9031922" width="100px;" alt="imchangchang"/>
+      </a>
+      <br />
+      <a href="https://github.com/imchangchang">Geng Chang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wdfk-prog">
         <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
       </a>
@@ -126,6 +133,8 @@
       <br />
       <a href="https://github.com/zcx3000">zcx3000</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/weiluo66">
         <img src="https://avatars2.githubusercontent.com/u/46224015" width="100px;" alt="weiluo66"/>
@@ -133,8 +142,6 @@
       <br />
       <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhi-hai">
         <img src="https://avatars2.githubusercontent.com/u/72931440" width="100px;" alt="zhi-hai"/>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/callmeraysoap">callmeraysoap</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WZ1680">
-        <img src="https://avatars2.githubusercontent.com/u/74898457" width="100px;" alt="WZ1680"/>
-      </a>
-      <br />
-      <a href="https://github.com/WZ1680">WZ1680</a>
     </td>
   </tr>
 </table>
