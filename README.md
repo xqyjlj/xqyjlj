@@ -69,18 +69,18 @@
       <a href="https://github.com/zbtrs">zbtrs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cutelolly">
-        <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
-      </a>
-      <br />
-      <a href="https://github.com/cutelolly">lollipop</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/chenyingchun0312">
         <img src="https://avatars2.githubusercontent.com/u/44871523" width="100px;" alt="chenyingchun0312"/>
       </a>
       <br />
       <a href="https://github.com/chenyingchun0312">陈迎春</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cutelolly">
+        <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
+      </a>
+      <br />
+      <a href="https://github.com/cutelolly">lollipop</a>
     </td>
   </tr>
   <tr>
