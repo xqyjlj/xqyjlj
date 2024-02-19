@@ -92,6 +92,13 @@
       <a href="https://github.com/cutelolly">lollipop</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Z8MAN8">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Z8MAN8"/>
+      </a>
+      <br />
+      <a href="https://github.com/Z8MAN8">Shicheng Chu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/firespeed79">
         <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
       </a>
@@ -126,6 +133,8 @@
       <br />
       <a href="https://github.com/poplar-space">OrangePeel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/eclipsesw">
         <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
@@ -133,8 +142,6 @@
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/joker4224">joker4224</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cyiiot">
-        <img src="https://avatars2.githubusercontent.com/u/25081194" width="100px;" alt="cyiiot"/>
-      </a>
-      <br />
-      <a href="https://github.com/cyiiot">攻城狮晨哲</a>
     </td>
   </tr>
 </table>
