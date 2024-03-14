@@ -178,11 +178,11 @@
       <a href="https://github.com/queue122">queue122</a>
     </td>
     <td align="center">
-      <a href="https://github.com/joker4224">
-        <img src="https://avatars2.githubusercontent.com/u/49227645" width="100px;" alt="joker4224"/>
+      <a href="https://github.com/liubo-meijing">
+        <img src="https://avatars2.githubusercontent.com/u/127711564" width="100px;" alt="liubo-meijing"/>
       </a>
       <br />
-      <a href="https://github.com/joker4224">joker4224</a>
+      <a href="https://github.com/liubo-meijing">liubo-meijing</a>
     </td>
   </tr>
 </table>
