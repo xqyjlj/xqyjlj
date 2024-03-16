@@ -127,14 +127,21 @@
       <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Operathi">
+        <img src="https://avatars2.githubusercontent.com/u/160701825" width="100px;" alt="Operathi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Operathi">Operathi</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/poplar-space">
         <img src="https://avatars2.githubusercontent.com/u/72025986" width="100px;" alt="poplar-space"/>
       </a>
       <br />
       <a href="https://github.com/poplar-space">OrangePeel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/eclipsesw">
         <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/queue122">queue122</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/liubo-meijing">
-        <img src="https://avatars2.githubusercontent.com/u/127711564" width="100px;" alt="liubo-meijing"/>
-      </a>
-      <br />
-      <a href="https://github.com/liubo-meijing">liubo-meijing</a>
     </td>
   </tr>
 </table>
