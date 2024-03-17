@@ -85,18 +85,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/cutelolly">
-        <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
-      </a>
-      <br />
-      <a href="https://github.com/cutelolly">lollipop</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Z8MAN8">
         <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Z8MAN8"/>
       </a>
       <br />
       <a href="https://github.com/Z8MAN8">Shicheng Chu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cutelolly">
+        <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
+      </a>
+      <br />
+      <a href="https://github.com/cutelolly">lollipop</a>
     </td>
     <td align="center">
       <a href="https://github.com/firespeed79">
@@ -120,18 +120,18 @@
       <a href="https://github.com/imchangchang">Geng Chang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wdfk-prog">
-        <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/wdfk-prog">wdfk-prog</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Operathi">
         <img src="https://avatars2.githubusercontent.com/u/160701825" width="100px;" alt="Operathi"/>
       </a>
       <br />
       <a href="https://github.com/Operathi">Operathi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wdfk-prog">
+        <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
   </tr>
   <tr>
