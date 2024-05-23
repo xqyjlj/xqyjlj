@@ -34,13 +34,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/thisoverride">
-        <img src="https://avatars2.githubusercontent.com/u/67823632" width="100px;" alt="thisoverride"/>
-      </a>
-      <br />
-      <a href="https://github.com/thisoverride">@Decorator</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/supperthomas">
         <img src="https://avatars2.githubusercontent.com/u/60349489" width="100px;" alt="supperthomas"/>
       </a>
@@ -82,8 +75,6 @@
       <br />
       <a href="https://github.com/Z8MAN8">Shicheng Chu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/delehub">
         <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
@@ -91,6 +82,8 @@
       <br />
       <a href="https://github.com/delehub">End</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/cutelolly">
         <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
@@ -133,8 +126,6 @@
       <br />
       <a href="https://github.com/poplar-space">OrangePeel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/eclipsesw">
         <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
@@ -142,6 +133,8 @@
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
@@ -183,6 +176,13 @@
       </a>
       <br />
       <a href="https://github.com/liubo-meijing">liubo-meijing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joker4224">
+        <img src="https://avatars2.githubusercontent.com/u/49227645" width="100px;" alt="joker4224"/>
+      </a>
+      <br />
+      <a href="https://github.com/joker4224">joker4224</a>
     </td>
   </tr>
 </table>
