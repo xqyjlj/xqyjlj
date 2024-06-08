@@ -150,6 +150,13 @@
       <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
     <td align="center">
+      <a href="https://github.com/CoderEndING">
+        <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
+      </a>
+      <br />
+      <a href="https://github.com/CoderEndING">CoderEndING</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhi-hai">
         <img src="https://avatars2.githubusercontent.com/u/72931440" width="100px;" alt="zhi-hai"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/liubo-meijing">liubo-meijing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/joker4224">
-        <img src="https://avatars2.githubusercontent.com/u/49227645" width="100px;" alt="joker4224"/>
-      </a>
-      <br />
-      <a href="https://github.com/joker4224">joker4224</a>
     </td>
   </tr>
 </table>
