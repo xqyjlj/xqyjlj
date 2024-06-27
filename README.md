@@ -69,18 +69,18 @@
       <a href="https://github.com/chenyingchun0312">陈迎春</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Z8MAN8">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Z8MAN8"/>
-      </a>
-      <br />
-      <a href="https://github.com/Z8MAN8">Shicheng Chu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/delehub">
         <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
       </a>
       <br />
       <a href="https://github.com/delehub">End</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Z8MAN8">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Z8MAN8"/>
+      </a>
+      <br />
+      <a href="https://github.com/Z8MAN8">Shicheng Chu</a>
     </td>
   </tr>
   <tr>
