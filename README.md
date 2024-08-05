@@ -41,18 +41,18 @@
       <a href="https://github.com/supperthomas">Supper Thomas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/9cats">
-        <img src="https://avatars2.githubusercontent.com/u/58725483" width="100px;" alt="9cats"/>
-      </a>
-      <br />
-      <a href="https://github.com/9cats">9cats</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/teddyxiong53">
         <img src="https://avatars2.githubusercontent.com/u/3727440" width="100px;" alt="teddyxiong53"/>
       </a>
       <br />
       <a href="https://github.com/teddyxiong53">teddyxiong53</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/9cats">
+        <img src="https://avatars2.githubusercontent.com/u/58725483" width="100px;" alt="9cats"/>
+      </a>
+      <br />
+      <a href="https://github.com/9cats">9cats</a>
     </td>
     <td align="center">
       <a href="https://github.com/zbtrs">
