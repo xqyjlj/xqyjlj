@@ -157,6 +157,13 @@
       <a href="https://github.com/eclipsesw">shiwei</a>
     </td>
     <td align="center">
+      <a href="https://github.com/CoderEndING">
+        <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
+      </a>
+      <br />
+      <a href="https://github.com/CoderEndING">CoderEndING</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yiansher">
         <img src="https://avatars2.githubusercontent.com/u/51122532" width="100px;" alt="yiansher"/>
       </a>
@@ -169,13 +176,6 @@
       </a>
       <br />
       <a href="https://github.com/weiluo66">weiluo66</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CoderEndING">
-        <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
-      </a>
-      <br />
-      <a href="https://github.com/CoderEndING">CoderEndING</a>
     </td>
     <td align="center">
       <a href="https://github.com/zhi-hai">
