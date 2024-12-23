@@ -124,7 +124,7 @@
         <img src="https://avatars2.githubusercontent.com/u/9031922" width="100px;" alt="imchangchang"/>
       </a>
       <br />
-      <a href="https://github.com/imchangchang">Geng Chang</a>
+      <a href="https://github.com/imchangchang">Chas GENG</a>
     </td>
     <td align="center">
       <a href="https://github.com/zcx3000">
