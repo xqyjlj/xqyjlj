@@ -157,6 +157,13 @@
       <a href="https://github.com/yiansher">yiansher</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jwliu2016">
+        <img src="https://avatars2.githubusercontent.com/u/17761680" width="100px;" alt="jwliu2016"/>
+      </a>
+      <br />
+      <a href="https://github.com/jwliu2016">jwliu2016</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CoderEndING">
         <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/zhi-hai">zhi-hai</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/queue122">
-        <img src="https://avatars2.githubusercontent.com/u/107522204" width="100px;" alt="queue122"/>
-      </a>
-      <br />
-      <a href="https://github.com/queue122">queue122</a>
     </td>
   </tr>
 </table>
