@@ -85,11 +85,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Z8MAN8">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Z8MAN8"/>
+      <a href="https://github.com/Solonix-Chu">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
       </a>
       <br />
-      <a href="https://github.com/Z8MAN8">Shicheng Chu</a>
+      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
     <td align="center">
       <a href="https://github.com/cutelolly">
