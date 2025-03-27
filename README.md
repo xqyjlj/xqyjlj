@@ -178,11 +178,11 @@
       <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
     <td align="center">
-      <a href="https://github.com/congmingyixia">
-        <img src="https://avatars2.githubusercontent.com/u/92369084" width="100px;" alt="congmingyixia"/>
+      <a href="https://github.com/zhi-hai">
+        <img src="https://avatars2.githubusercontent.com/u/72931440" width="100px;" alt="zhi-hai"/>
       </a>
       <br />
-      <a href="https://github.com/congmingyixia">congmingyixia</a>
+      <a href="https://github.com/zhi-hai">zhi-hai</a>
     </td>
   </tr>
 </table>
