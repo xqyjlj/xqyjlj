@@ -69,18 +69,18 @@
       <a href="https://github.com/zbtrs">zbtrs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/firespeed79">
-        <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
-      </a>
-      <br />
-      <a href="https://github.com/firespeed79">firespeed79</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Solonix-Chu">
         <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
       </a>
       <br />
       <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/firespeed79">
+        <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
+      </a>
+      <br />
+      <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
   </tr>
   <tr>
