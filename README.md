@@ -69,18 +69,18 @@
       <a href="https://github.com/zbtrs">zbtrs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Solonix-Chu">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/firespeed79">
         <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
       </a>
       <br />
       <a href="https://github.com/firespeed79">firespeed79</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Solonix-Chu">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
+      </a>
+      <br />
+      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
   </tr>
   <tr>
@@ -164,6 +164,13 @@
       <a href="https://github.com/CoderEndING">CoderEndING</a>
     </td>
     <td align="center">
+      <a href="https://github.com/1078249029">
+        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="1078249029"/>
+      </a>
+      <br />
+      <a href="https://github.com/1078249029">wumingzi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yiansher">
         <img src="https://avatars2.githubusercontent.com/u/51122532" width="100px;" alt="yiansher"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/weiluo66">weiluo66</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhi-hai">
-        <img src="https://avatars2.githubusercontent.com/u/72931440" width="100px;" alt="zhi-hai"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhi-hai">zhi-hai</a>
     </td>
   </tr>
 </table>
