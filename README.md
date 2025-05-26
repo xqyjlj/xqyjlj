@@ -34,6 +34,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Xvezda">
+        <img src="https://avatars2.githubusercontent.com/u/9497404" width="100px;" alt="Xvezda"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xvezda">Xvezda</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ljluestc">
         <img src="https://avatars2.githubusercontent.com/u/63439129" width="100px;" alt="ljluestc"/>
       </a>
@@ -75,6 +82,8 @@
       <br />
       <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/cutelolly">
         <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
@@ -82,8 +91,6 @@
       <br />
       <a href="https://github.com/cutelolly">lollipop</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Solonix-Chu">
         <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
@@ -126,6 +133,8 @@
       <br />
       <a href="https://github.com/imchangchang">Chas GENG</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
@@ -133,8 +142,6 @@
       <br />
       <a href="https://github.com/zcx3000">zcx3000</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/poplar-space">
         <img src="https://avatars2.githubusercontent.com/u/72025986" width="100px;" alt="poplar-space"/>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/yiansher">yiansher</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/weiluo66">
-        <img src="https://avatars2.githubusercontent.com/u/46224015" width="100px;" alt="weiluo66"/>
-      </a>
-      <br />
-      <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
   </tr>
 </table>
