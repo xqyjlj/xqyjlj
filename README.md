@@ -92,18 +92,18 @@
       <a href="https://github.com/delehub">End</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cutelolly">
-        <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
-      </a>
-      <br />
-      <a href="https://github.com/cutelolly">lollipop</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Solonix-Chu">
         <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
       </a>
       <br />
       <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cutelolly">
+        <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
+      </a>
+      <br />
+      <a href="https://github.com/cutelolly">lollipop</a>
     </td>
     <td align="center">
       <a href="https://github.com/chenyingchun0312">
