@@ -171,18 +171,18 @@
       <a href="https://github.com/CoderEndING">CoderEndING</a>
     </td>
     <td align="center">
+      <a href="https://github.com/1078249029">
+        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="1078249029"/>
+      </a>
+      <br />
+      <a href="https://github.com/1078249029">wumingzi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yiansher">
         <img src="https://avatars2.githubusercontent.com/u/51122532" width="100px;" alt="yiansher"/>
       </a>
       <br />
       <a href="https://github.com/yiansher">yiansher</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/weiluo66">
-        <img src="https://avatars2.githubusercontent.com/u/46224015" width="100px;" alt="weiluo66"/>
-      </a>
-      <br />
-      <a href="https://github.com/weiluo66">weiluo66</a>
     </td>
   </tr>
 </table>
