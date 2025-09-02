@@ -92,18 +92,18 @@
       <a href="https://github.com/delehub">End</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Solonix-Chu">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/chenyingchun0312">
         <img src="https://avatars2.githubusercontent.com/u/44871523" width="100px;" alt="chenyingchun0312"/>
       </a>
       <br />
       <a href="https://github.com/chenyingchun0312">陈迎春</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Solonix-Chu">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
+      </a>
+      <br />
+      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
     <td align="center">
       <a href="https://github.com/cutelolly">
@@ -157,6 +157,13 @@
       <a href="https://github.com/zcx3000">zcx3000</a>
     </td>
     <td align="center">
+      <a href="https://github.com/johnhsing918">
+        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
+      </a>
+      <br />
+      <a href="https://github.com/johnhsing918">johnhsing918</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CoderEndING">
         <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yiansher">
-        <img src="https://avatars2.githubusercontent.com/u/51122532" width="100px;" alt="yiansher"/>
-      </a>
-      <br />
-      <a href="https://github.com/yiansher">yiansher</a>
     </td>
   </tr>
 </table>
