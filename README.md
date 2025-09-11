@@ -157,13 +157,6 @@
       <a href="https://github.com/zcx3000">zcx3000</a>
     </td>
     <td align="center">
-      <a href="https://github.com/johnhsing918">
-        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
-      </a>
-      <br />
-      <a href="https://github.com/johnhsing918">johnhsing918</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CoderEndING">
         <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
       </a>
@@ -176,6 +169,13 @@
       </a>
       <br />
       <a href="https://github.com/poplar-space">OrangePeel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/johnhsing918">
+        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
+      </a>
+      <br />
+      <a href="https://github.com/johnhsing918">johnhsing918</a>
     </td>
     <td align="center">
       <a href="https://github.com/eclipsesw">
