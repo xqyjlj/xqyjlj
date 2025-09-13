@@ -76,14 +76,21 @@
       <a href="https://github.com/zbtrs">zbtrs</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Solonix-Chu">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
+      </a>
+      <br />
+      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/firespeed79">
         <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
       </a>
       <br />
       <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/delehub">
         <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
@@ -97,13 +104,6 @@
       </a>
       <br />
       <a href="https://github.com/chenyingchun0312">陈迎春</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Solonix-Chu">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
     <td align="center">
       <a href="https://github.com/cutelolly">
@@ -157,6 +157,13 @@
       <a href="https://github.com/zcx3000">zcx3000</a>
     </td>
     <td align="center">
+      <a href="https://github.com/johnhsing918">
+        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
+      </a>
+      <br />
+      <a href="https://github.com/johnhsing918">johnhsing918</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CoderEndING">
         <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
       </a>
@@ -169,13 +176,6 @@
       </a>
       <br />
       <a href="https://github.com/poplar-space">OrangePeel</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/johnhsing918">
-        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
-      </a>
-      <br />
-      <a href="https://github.com/johnhsing918">johnhsing918</a>
     </td>
     <td align="center">
       <a href="https://github.com/eclipsesw">
