@@ -99,18 +99,18 @@
       <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chenyingchun0312">
-        <img src="https://avatars2.githubusercontent.com/u/44871523" width="100px;" alt="chenyingchun0312"/>
-      </a>
-      <br />
-      <a href="https://github.com/chenyingchun0312">陈迎春</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cutelolly">
         <img src="https://avatars2.githubusercontent.com/u/21281676" width="100px;" alt="cutelolly"/>
       </a>
       <br />
       <a href="https://github.com/cutelolly">lollipop</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chenyingchun0312">
+        <img src="https://avatars2.githubusercontent.com/u/44871523" width="100px;" alt="chenyingchun0312"/>
+      </a>
+      <br />
+      <a href="https://github.com/chenyingchun0312">陈迎春</a>
     </td>
     <td align="center">
       <a href="https://github.com/wdfk-prog">
@@ -157,6 +157,13 @@
       <a href="https://github.com/jwliu2016">jwliu2016</a>
     </td>
     <td align="center">
+      <a href="https://github.com/johnhsing918">
+        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
+      </a>
+      <br />
+      <a href="https://github.com/johnhsing918">johnhsing918</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CoderEndING">
         <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/1078249029">
-        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="1078249029"/>
-      </a>
-      <br />
-      <a href="https://github.com/1078249029">wumingzi</a>
     </td>
   </tr>
 </table>
