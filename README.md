@@ -120,18 +120,18 @@
       <a href="https://github.com/imchangchang">Chas GENG</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wdfk-prog">
-        <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/wdfk-prog">wdfk-prog</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/XAALJ">
         <img src="https://avatars2.githubusercontent.com/u/44630193" width="100px;" alt="XAALJ"/>
       </a>
       <br />
       <a href="https://github.com/XAALJ">Linky</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wdfk-prog">
+        <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
   </tr>
   <tr>
