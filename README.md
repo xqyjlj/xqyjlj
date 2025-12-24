@@ -92,18 +92,18 @@
       <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Solonix-Chu">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/delehub">
         <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
       </a>
       <br />
       <a href="https://github.com/delehub">End</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Solonix-Chu">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
+      </a>
+      <br />
+      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
     <td align="center">
       <a href="https://github.com/cutelolly">
@@ -127,20 +127,20 @@
       <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
     <td align="center">
-      <a href="https://github.com/imchangchang">
-        <img src="https://avatars2.githubusercontent.com/u/9031922" width="100px;" alt="imchangchang"/>
-      </a>
-      <br />
-      <a href="https://github.com/imchangchang">Chas GENG</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/XAALJ">
         <img src="https://avatars2.githubusercontent.com/u/44630193" width="100px;" alt="XAALJ"/>
       </a>
       <br />
       <a href="https://github.com/XAALJ">Linky</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/imchangchang">
+        <img src="https://avatars2.githubusercontent.com/u/9031922" width="100px;" alt="imchangchang"/>
+      </a>
+      <br />
+      <a href="https://github.com/imchangchang">Chas GENG</a>
     </td>
     <td align="center">
       <a href="https://github.com/arrio464">
