@@ -80,7 +80,7 @@
         <img src="https://avatars2.githubusercontent.com/u/32517549" width="100px;" alt="zbtrs"/>
       </a>
       <br />
-      <a href="https://github.com/zbtrs">zbtrs</a>
+      <a href="https://github.com/zbtrs">Yufei Hu</a>
     </td>
   </tr>
   <tr>
