@@ -150,18 +150,18 @@
       <a href="https://github.com/arrio464">arrio464</a>
     </td>
     <td align="center">
-      <a href="https://github.com/1078249029">
-        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="1078249029"/>
-      </a>
-      <br />
-      <a href="https://github.com/1078249029">wumingzi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jwliu2016">
         <img src="https://avatars2.githubusercontent.com/u/17761680" width="100px;" alt="jwliu2016"/>
       </a>
       <br />
       <a href="https://github.com/jwliu2016">jwliu2016</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/1078249029">
+        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="1078249029"/>
+      </a>
+      <br />
+      <a href="https://github.com/1078249029">wumingzi</a>
     </td>
     <td align="center">
       <a href="https://github.com/zcx3000">
