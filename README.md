@@ -164,13 +164,6 @@
       <a href="https://github.com/jwliu2016">jwliu2016</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hellofxin">
-        <img src="https://avatars2.githubusercontent.com/u/26019870" width="100px;" alt="hellofxin"/>
-      </a>
-      <br />
-      <a href="https://github.com/hellofxin">hellofxin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
       </a>
@@ -183,6 +176,13 @@
       </a>
       <br />
       <a href="https://github.com/johnhsing918">johnhsing918</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hellofxin">
+        <img src="https://avatars2.githubusercontent.com/u/26019870" width="100px;" alt="hellofxin"/>
+      </a>
+      <br />
+      <a href="https://github.com/hellofxin">hellofxin</a>
     </td>
   </tr>
 </table>
