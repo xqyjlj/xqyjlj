@@ -178,11 +178,11 @@
       <a href="https://github.com/johnhsing918">johnhsing918</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hellofxin">
-        <img src="https://avatars2.githubusercontent.com/u/26019870" width="100px;" alt="hellofxin"/>
+      <a href="https://github.com/eclipsesw">
+        <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
       </a>
       <br />
-      <a href="https://github.com/hellofxin">hellofxin</a>
+      <a href="https://github.com/eclipsesw">shiwei</a>
     </td>
   </tr>
 </table>
