@@ -106,18 +106,18 @@
       <a href="https://github.com/cutelolly">lollipop</a>
     </td>
     <td align="center">
-      <a href="https://github.com/delehub">
-        <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
-      </a>
-      <br />
-      <a href="https://github.com/delehub">End</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wdfk-prog">
         <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
       </a>
       <br />
       <a href="https://github.com/wdfk-prog">wdfk-prog</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/delehub">
+        <img src="https://avatars2.githubusercontent.com/u/64998722" width="100px;" alt="delehub"/>
+      </a>
+      <br />
+      <a href="https://github.com/delehub">End</a>
     </td>
     <td align="center">
       <a href="https://github.com/chenyingchun0312">
@@ -150,11 +150,11 @@
       <a href="https://github.com/arrio464">arrio464</a>
     </td>
     <td align="center">
-      <a href="https://github.com/1078249029">
-        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="1078249029"/>
+      <a href="https://github.com/wuming-zi">
+        <img src="https://avatars2.githubusercontent.com/u/62127946" width="100px;" alt="wuming-zi"/>
       </a>
       <br />
-      <a href="https://github.com/1078249029">wumingzi</a>
+      <a href="https://github.com/wuming-zi">wumingzi</a>
     </td>
     <td align="center">
       <a href="https://github.com/zcx3000">
