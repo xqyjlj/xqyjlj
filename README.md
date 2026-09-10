@@ -48,13 +48,6 @@
       <a href="https://github.com/2659170494">GreenYoshi (Wang Han)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ljluestc">
-        <img src="https://avatars2.githubusercontent.com/u/63439129" width="100px;" alt="ljluestc"/>
-      </a>
-      <br />
-      <a href="https://github.com/ljluestc">ljluestc</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/supperthomas">
         <img src="https://avatars2.githubusercontent.com/u/60349489" width="100px;" alt="supperthomas"/>
       </a>
@@ -82,8 +75,6 @@
       <br />
       <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zbtrs">
         <img src="https://avatars2.githubusercontent.com/u/32517549" width="100px;" alt="zbtrs"/>
@@ -91,6 +82,8 @@
       <br />
       <a href="https://github.com/zbtrs">Yufei Hu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Solonix-Chu">
         <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
@@ -133,8 +126,6 @@
       <br />
       <a href="https://github.com/imchangchang">Chas GENG</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/XAALJ">
         <img src="https://avatars2.githubusercontent.com/u/44630193" width="100px;" alt="XAALJ"/>
@@ -142,6 +133,8 @@
       <br />
       <a href="https://github.com/XAALJ">Linky</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/arrio464">
         <img src="https://avatars2.githubusercontent.com/u/87381996" width="100px;" alt="arrio464"/>
@@ -183,6 +176,13 @@
       </a>
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CoderEndING">
+        <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
+      </a>
+      <br />
+      <a href="https://github.com/CoderEndING">CoderEndING</a>
     </td>
   </tr>
 </table>
