@@ -171,18 +171,18 @@
       <a href="https://github.com/johnhsing918">johnhsing918</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hellofxin">
+        <img src="https://avatars2.githubusercontent.com/u/26019870" width="100px;" alt="hellofxin"/>
+      </a>
+      <br />
+      <a href="https://github.com/hellofxin">hellofxin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/eclipsesw">
         <img src="https://avatars2.githubusercontent.com/u/54465865" width="100px;" alt="eclipsesw"/>
       </a>
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CoderEndING">
-        <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
-      </a>
-      <br />
-      <a href="https://github.com/CoderEndING">CoderEndING</a>
     </td>
   </tr>
 </table>
