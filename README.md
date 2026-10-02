@@ -157,18 +157,18 @@
       <a href="https://github.com/zcx3000">zcx3000</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jwliu2016">
-        <img src="https://avatars2.githubusercontent.com/u/17761680" width="100px;" alt="jwliu2016"/>
-      </a>
-      <br />
-      <a href="https://github.com/jwliu2016">jwliu2016</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/johnhsing918">
         <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
       </a>
       <br />
       <a href="https://github.com/johnhsing918">johnhsing918</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jwliu2016">
+        <img src="https://avatars2.githubusercontent.com/u/17761680" width="100px;" alt="jwliu2016"/>
+      </a>
+      <br />
+      <a href="https://github.com/jwliu2016">jwliu2016</a>
     </td>
     <td align="center">
       <a href="https://github.com/hellofxin">
