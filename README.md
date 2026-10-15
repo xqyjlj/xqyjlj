@@ -85,18 +85,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Solonix-Chu">
-        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wdfk-prog">
         <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
       </a>
       <br />
       <a href="https://github.com/wdfk-prog">wdfk-prog</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Solonix-Chu">
+        <img src="https://avatars2.githubusercontent.com/u/95859513" width="100px;" alt="Solonix-Chu"/>
+      </a>
+      <br />
+      <a href="https://github.com/Solonix-Chu">Shicheng Chu</a>
     </td>
     <td align="center">
       <a href="https://github.com/cutelolly">
