@@ -140,7 +140,7 @@
         <img src="https://avatars2.githubusercontent.com/u/87381996" width="100px;" alt="arrio464"/>
       </a>
       <br />
-      <a href="https://github.com/arrio464">arrio464</a>
+      <a href="https://github.com/arrio464">arrio</a>
     </td>
     <td align="center">
       <a href="https://github.com/wuming-zi">
