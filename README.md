@@ -69,11 +69,11 @@
       <a href="https://github.com/9cats">9cats</a>
     </td>
     <td align="center">
-      <a href="https://github.com/firespeed79">
-        <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
+      <a href="https://github.com/wdfk-prog">
+        <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
       </a>
       <br />
-      <a href="https://github.com/firespeed79">firespeed79</a>
+      <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
     <td align="center">
       <a href="https://github.com/zbtrs">
@@ -85,11 +85,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/wdfk-prog">
-        <img src="https://avatars2.githubusercontent.com/u/66928464" width="100px;" alt="wdfk-prog"/>
+      <a href="https://github.com/firespeed79">
+        <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
       </a>
       <br />
-      <a href="https://github.com/wdfk-prog">wdfk-prog</a>
+      <a href="https://github.com/firespeed79">firespeed79</a>
     </td>
     <td align="center">
       <a href="https://github.com/Solonix-Chu">
@@ -150,13 +150,6 @@
       <a href="https://github.com/wuming-zi">wumingzi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/johnhsing918">
-        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
-      </a>
-      <br />
-      <a href="https://github.com/johnhsing918">johnhsing918</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
       </a>
@@ -171,11 +164,11 @@
       <a href="https://github.com/jwliu2016">jwliu2016</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hellofxin">
-        <img src="https://avatars2.githubusercontent.com/u/26019870" width="100px;" alt="hellofxin"/>
+      <a href="https://github.com/johnhsing918">
+        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
       </a>
       <br />
-      <a href="https://github.com/hellofxin">hellofxin</a>
+      <a href="https://github.com/johnhsing918">johnhsing918</a>
     </td>
     <td align="center">
       <a href="https://github.com/eclipsesw">
@@ -183,6 +176,13 @@
       </a>
       <br />
       <a href="https://github.com/eclipsesw">shiwei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CoderEndING">
+        <img src="https://avatars2.githubusercontent.com/u/171105982" width="100px;" alt="CoderEndING"/>
+      </a>
+      <br />
+      <a href="https://github.com/CoderEndING">CoderEndING</a>
     </td>
   </tr>
 </table>
