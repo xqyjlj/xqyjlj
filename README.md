@@ -76,20 +76,20 @@
       <a href="https://github.com/wdfk-prog">wdfk-prog</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zbtrs">
-        <img src="https://avatars2.githubusercontent.com/u/32517549" width="100px;" alt="zbtrs"/>
-      </a>
-      <br />
-      <a href="https://github.com/zbtrs">Yufei Hu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/firespeed79">
         <img src="https://avatars2.githubusercontent.com/u/4322731" width="100px;" alt="firespeed79"/>
       </a>
       <br />
       <a href="https://github.com/firespeed79">firespeed79</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zbtrs">
+        <img src="https://avatars2.githubusercontent.com/u/32517549" width="100px;" alt="zbtrs"/>
+      </a>
+      <br />
+      <a href="https://github.com/zbtrs">Yufei Hu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Solonix-Chu">
@@ -150,6 +150,13 @@
       <a href="https://github.com/wuming-zi">wumingzi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/johnhsing918">
+        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
+      </a>
+      <br />
+      <a href="https://github.com/johnhsing918">johnhsing918</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zcx3000">
         <img src="https://avatars2.githubusercontent.com/u/32561147" width="100px;" alt="zcx3000"/>
       </a>
@@ -162,13 +169,6 @@
       </a>
       <br />
       <a href="https://github.com/jwliu2016">jwliu2016</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/johnhsing918">
-        <img src="https://avatars2.githubusercontent.com/u/161765649" width="100px;" alt="johnhsing918"/>
-      </a>
-      <br />
-      <a href="https://github.com/johnhsing918">johnhsing918</a>
     </td>
     <td align="center">
       <a href="https://github.com/eclipsesw">
